@@ -1,0 +1,27 @@
+.bg {
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.bg:hover {
+  -ms-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.bg-one {
+  background-image: url("../img/uiux1/uiux1_10.png");
+}
+
+.bg-two {
+  background-image: url("../img/img_t2.jpg");
+}

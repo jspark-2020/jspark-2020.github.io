@@ -1,0 +1,51 @@
+* {
+  color: #707070;
+  font-family: "acumin-pro", sans-serif;
+  font-weight: 600;
+}
+
+#logo {
+  color: #707070;
+  font-family: "rig-shaded-medium-extrude", sans-serif;
+  font-size: 40px;
+  -webkit-transition: 0.5s all ease-out;
+  -moz-transition: 0.5s all ease-out;
+  transition: 0.5s all ease-out;
+}
+
+#logo:hover {
+  color: #ffb50d;
+}
+
+.about-me {
+  font-family: "acumin-pro", sans-serif;
+  font-weight: 500;
+}
+
+.keyword {
+  color: #ffb50d;
+}
+
+.git-icon {
+  font-size: 40px;
+  -webkit-transition: 0.5s all ease-out;
+  -moz-transition: 0.5s all ease-out;
+  transition: 0.5s all ease-out;
+}
+
+.git-icon:hover {
+  color: #ffb50d;
+}
+
+.works_navigator {
+  color: #707070;
+  font-size: 40px;
+  -webkit-transition: 0.5s all ease-out;
+  -moz-transition: 0.5s all ease-out;
+  transition: 0.5s all ease-out;
+  vertical-align: middle;
+}
+
+.works_navigator:hover {
+  color: #ffb50d;
+}

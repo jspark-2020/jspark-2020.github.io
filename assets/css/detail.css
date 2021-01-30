@@ -1,0 +1,15 @@
+.y-divider {
+  display: flex;
+  margin: auto;
+  width: 70%;
+  border-bottom: 3px solid #ffb50d;
+  padding-top: 10px;
+}
+
+.work-element {
+  padding: 40px 0px 30px 0px;
+}
+
+.work-summ {
+  padding: 20px 0px 50px 0px;
+}
