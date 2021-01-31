@@ -7091,7 +7091,8 @@ html.is-reveal-open body {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.top-bar{
+.top-bar {
+  padding-top: 20px;
   background-color: rgba(245, 245, 245, 0.9);
 }
 .top-bar input {
