@@ -14,7 +14,7 @@
 }
 
 #logo:hover {
-  color: #ffb50d;
+  color: var(--theme-yellow);
 }
 
 .about-me {
@@ -23,7 +23,7 @@
 }
 
 .keyword {
-  color: #ffb50d;
+  color: var(--theme-yellow);
 }
 
 .git-icon {
@@ -34,7 +34,7 @@
 }
 
 .git-icon:hover {
-  color: #ffb50d;
+  color: var(--theme-yellow);
 }
 
 .works_navigator {
@@ -47,5 +47,5 @@
 }
 
 .works_navigator:hover {
-  color: #ffb50d;
+  color: var(--theme-yellow);
 }
