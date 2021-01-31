@@ -25,3 +25,45 @@
 .bg-two {
   background-image: url("../img/img_t2.jpg");
 }
+
+.bg-aq-p1 {
+  background-image: url("../img/photo/Aquarium/Aqua1.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.bg-art-p1 {
+  background-image: url("../img/photo/Artifact/artifact1.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.bg-bw-p1 {
+  background-image: url("../img/photo/Black_white/BW1.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.bg-ever-p1 {
+  background-image: url("../img/photo/Evergreen/Evergreen2.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.bg-farm-p1 {
+  background-image: url("../img/photo/Farm/Farm1.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.bg-gold-p1 {
+  background-image: url("../img/photo/Golden_hour/Golden1.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.bg-na-p1 {
+  background-image: url("../img/photo/Naval/Naval1.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+}
