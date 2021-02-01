@@ -23,7 +23,15 @@
 }
 
 .bg-two {
-  background-image: url("../img/img_t2.jpg");
+  background-image: url("../img/petmille/petmille_1.png");
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.bg-three {
+  background-image: url("../img/masto/mastocheck1.png");
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .bg-aq-p1 {
