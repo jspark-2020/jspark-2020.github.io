@@ -23,9 +23,9 @@
 }
 
 .bg-two {
-  background-image: url("../img/petmille/petmille_1.png");
+  background-image: url("../img/petmille/petmille_t.png");
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 0% 50%;
 }
 
 .bg-three {
