@@ -171,4 +171,30 @@
   .brain {
     padding-top: 50px;
   }
+
+  #pre-main {
+    height: 200px;
+  }
+
+  #top-menu li {
+    margin-right: 1px;
+  }
+
+  #top-menu li + li {
+    margin-left: 1px;
+  }
+
+  #top-menu a {
+    padding: 15px 12px 7px 12px;
+  }
+
+  .resume_button {
+    padding: 15px 12px 7px 12px;
+    margin-left: 1px;
+  }
+
+  .add-padding {
+    padding: 30px 30px 10px 30px;
+  }
+
 }

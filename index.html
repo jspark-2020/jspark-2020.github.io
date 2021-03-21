@@ -45,13 +45,14 @@
     <div id="main" class="grid-container">
       <div class="grid-x grid-padding-x">
         <div
-          class="large-1 medium-1 cell"
+          class="large-1 medium-1 small-1 cell"
           data-smooth-scroll
           data-sticky-container
         >
           <div
             class="sticky center-item left-fixed"
             data-options="marginTop:2;"
+            data-sticky-on="small"
             data-sticky
           >
             <a id="logo" href="index.html">JS</a>
@@ -60,6 +61,7 @@
             class="sticky center-item left-fixed"
             data-options="marginBottom:12;"
             data-stick-to="bottom"
+            data-sticky-on="small"
             data-sticky
           >
             <a href="#top">
@@ -70,6 +72,7 @@
             class="sticky center-item left-fixed"
             data-options="marginBottom:5;"
             data-stick-to="bottom"
+            data-sticky-on="small"
             data-sticky
           >
             <a href="https://github.com/jspark-2020">
@@ -77,26 +80,30 @@
             </a>
           </div>
         </div>
-        <div class="large-11 medium-11 cell">
+        <div class="large-11 medium-11 small-11 cell">
           <div data-sticky-container>
-            <div class="top-bar" data-sticky data-margin-top="0">
-              <div class="top-bar-right">
-                <div class="grid-x grid-padding-x">
-                  <ul id="top-menu">
-                    <li class="active">
-                      <a href="#first">Home</a>
-                    </li>
-                    <li>
-                      <a href="#second">Work</a>
-                    </li>
-                  </ul>
-                  <a
-                    class="resume_button"
-                    href="assets/document/JiSuPark_Resume_Masters.pdf"
-                    >Resume</a
-                  >
+            <div class="top-bar" 
+              data-sticky 
+              data-sticky-on="small"
+              data-margin-top="0"
+            >
+                <div class="top-bar-right">
+                  <div class="grid-x grid-padding-x">
+                    <ul id="top-menu">
+                      <li class="active">
+                        <a href="#first">Home</a>
+                      </li>
+                      <li>
+                        <a href="#second">Work</a>
+                      </li>
+                    </ul>
+                    <a
+                      class="resume_button"
+                      href="assets/document/JiSuPark_Resume_Masters.pdf"
+                      >Resume</a
+                    >
+                  </div>
                 </div>
-              </div>
             </div>
           </div>
 
